@@ -38,3 +38,11 @@ console.log("Total time spent:", totalTime(hobbyLog), "minutes");
 console.log("Unique hobbies:", uniqueHobbies(hobbyLog));
 console.log("Sessions longer than 30 min:", longSessions(hobbyLog, 30));
 console.log("Number of relaxed sessions:", countMood(hobbyLog, "relaxed"));
+
+/* Suggested improvement: the function called longSessions can be renamed
+* to something that is more descriptive of how the function works. 
+* For example, a name like sessionsLongerThan could suggest that the
+* sessions returned are longer than a certain length of time.
+*/
+
+
