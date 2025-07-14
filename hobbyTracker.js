@@ -1,3 +1,10 @@
+/*
+* Nicole Rodriguez
+* CS 81 Summer 2025
+* Module 5a HW
+* 7/13/25
+*/
+
 // Create an array of hobbies with details including day, hobby name, time spent, and mood
 const hobbyLog = [
   { day: "Monday", hobby: "drawing", minutes: 30, mood: "focused" },
